@@ -3,4 +3,4 @@ A small clone of [2048](http://gabrielecirulli.github.io/2048/) by Gabrielle Cir
 
 Inspired by Get Caltech! by Naveen Arun.
 
-Made just for fun for MRSD Students
+Made just for fun for MRSD Students. Ideas inspired by Alex Sher and Brian Boyle in my class :p
